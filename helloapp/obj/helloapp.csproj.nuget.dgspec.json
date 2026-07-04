@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\IntroGenious\\Desktop\\git-takes-two\\helloapp-black\\helloapp\\helloapp.csproj": {}
+    "C:\\Users\\IntroGenious\\Desktop\\git-takes-two\\helloapp-white\\helloapp\\helloapp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\IntroGenious\\Desktop\\git-takes-two\\helloapp-black\\helloapp\\helloapp.csproj": {
+    "C:\\Users\\IntroGenious\\Desktop\\git-takes-two\\helloapp-white\\helloapp\\helloapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\IntroGenious\\Desktop\\git-takes-two\\helloapp-black\\helloapp\\helloapp.csproj",
+        "projectUniqueName": "C:\\Users\\IntroGenious\\Desktop\\git-takes-two\\helloapp-white\\helloapp\\helloapp.csproj",
         "projectName": "helloapp",
-        "projectPath": "C:\\Users\\IntroGenious\\Desktop\\git-takes-two\\helloapp-black\\helloapp\\helloapp.csproj",
+        "projectPath": "C:\\Users\\IntroGenious\\Desktop\\git-takes-two\\helloapp-white\\helloapp\\helloapp.csproj",
         "packagesPath": "C:\\Users\\IntroGenious\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\IntroGenious\\Desktop\\git-takes-two\\helloapp-black\\helloapp\\obj\\",
+        "outputPath": "C:\\Users\\IntroGenious\\Desktop\\git-takes-two\\helloapp-white\\helloapp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\IntroGenious\\AppData\\Roaming\\NuGet\\NuGet.Config",
