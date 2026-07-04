@@ -6,7 +6,9 @@ namespace Program
     {
         static void Main()
         {
-            SayHello();    
+            SayHello();   
+            GreetBlack();
+            GreetWhite(); 
         }
         
         static void SayHello()
@@ -17,6 +19,11 @@ namespace Program
         static void GreetWhite()
         {
             Console.WriteLine("hello white");
+        }
+
+        static void GreetBlack()
+        {
+            Console.WriteLine("hello black");
         }
     }
 }
