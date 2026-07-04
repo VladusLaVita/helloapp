@@ -6,7 +6,9 @@ namespace Program
     {
         static void Main()
         {
-            SayHello();    
+            SayHello();   
+            GreetBlack();
+            GreetWhite(); 
         }
         
         static void SayHello()
